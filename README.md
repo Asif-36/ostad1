@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 ![IMG_2385](https://github.com/Asif-36/ostad1/assets/130299330/4e4bc1a0-504d-4af6-8343-68a63128020a)
-![f0c297e9-2ad1-4791-a85f-65ed8ad61e05](https://github.com/Asif-36/ostad1/assets/130299330/67e84e50-81ec-417d-84b6-d96a0c943a05)
+
 
 This project is a starting point for a Flutter application.
 
